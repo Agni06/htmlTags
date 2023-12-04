@@ -1,1 +1,6 @@
-HTML tags contain three main parts: opening tag, content and closing tag. But some HTML tags are unclosed tags. When a web browser reads an HTML document, browser reads it from top to bottom and left to right. HTML tags are used to create HTML documents and render their properties. Each HTML tags have different properties.
+<h1>Beetles</h1>
+<h2>External morphology</h2>
+<h3>Head</h3>
+<h4>Mouthparts</h4>
+<h5>Thorax</h5>
+<h6>Prothorax</h6>
