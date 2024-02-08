@@ -1,5 +1,12 @@
 .main-heading
 {
 color : blue ;
+  font-family : "Roboto";
+font-size : 36px;
+  font-style : italic;
+  font-weight: bold;
+  text-decoration : underline ;
+
+
   
 }
